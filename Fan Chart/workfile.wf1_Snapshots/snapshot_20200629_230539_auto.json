@@ -1,0 +1,131 @@
+
+{
+	"commands" : 
+	[
+		"delete resid mod ipca_f ipca_0m ipca_0l ipca_0h ipca_0 ipca ibcbr g2 eq1 d_ibcbr_f d_ibcbr_0m d_ibcbr_0l d_ibcbr_0h d_ibcbr_0 d_ibcbr d_cambio_f d_cambio_0m d_cambio_0l d_cambio_0h d_cambio_0 d_cambio cambio c ",
+		"{%equation}.ls d_ibcbr c d_ibcbr(-1)",
+		"{%equation}.ls d_ibcbr c d_ibcbr(-1)"
+	],
+	"description" : "",
+	"label" : "auto",
+	"workbook_meta" : 
+	{
+		"_name" : "e:\\eviews\\fan chart\\workfile.wf1",
+		"_pages" : 
+		[
+			
+			{
+				"_frequency" : "M",
+				"_last_update" : [ 737603.9860416667, "06/28/2020 23:39" ],
+				"_name" : "Untitled",
+				"_obj_count" : 7,
+				"_objects" : 
+				[
+					
+					{
+						"_data_type" : "date",
+						"_name" : "@DATE",
+						"_obs_max" : [ 737393.0, "12/01/2019" ],
+						"_obs_min" : [ 730850.0, "01/01/2002" ],
+						"_type" : "INDEX"
+					},
+					
+					{
+						"_name" : "C",
+						"_type" : "COEF"
+					},
+					
+					{
+						"_name" : "CAMBIO",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "D_CAMBIO",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "D_IBCBR",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "IBCBR",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "IPCA",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "RESID",
+						"_type" : "SERIES"
+					}
+				],
+				"_obs_count" : 216
+			},
+			
+			{
+				"_frequency" : "M",
+				"_last_update" : [ 737604.9599652778, "06/29/2020 23:02" ],
+				"_name" : "Untitled1",
+				"_obj_count" : 8,
+				"_objects" : 
+				[
+					
+					{
+						"_data_type" : "date",
+						"_name" : "@DATE",
+						"_obs_max" : [ 737759.0, "12/01/2020" ],
+						"_obs_min" : [ 730850.0, "01/01/2002" ],
+						"_type" : "INDEX"
+					},
+					
+					{
+						"_name" : "C",
+						"_type" : "COEF"
+					},
+					
+					{
+						"_name" : "CAMBIO",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "D_CAMBIO",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "D_IBCBR",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "D_IBCBRF",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "IBCBR",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "IPCA",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "RESID",
+						"_type" : "SERIES"
+					}
+				],
+				"_obs_count" : 228
+			}
+		]
+	}
+}
