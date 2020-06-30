@@ -13,18 +13,6 @@
 !coef_unc = 1
 
 ' numero de bandas no grafico
-!numb = 3
 
-' criando a variavel modelo e a variavel a ser prevista
-%mod_name = "mod"
-%varname = "ipca"
 
-' definindo a estimação
-smpl {%estimation_smpl}
-
-var var_ipca.ls 1 2 ipca d_ibcbr d_cambio
-var_ipca.makemodel({%mod_name})
-
-' ============= FAN CHART ==============
-%quant_array = "90"
 

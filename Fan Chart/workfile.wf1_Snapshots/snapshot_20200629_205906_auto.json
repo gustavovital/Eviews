@@ -1,0 +1,249 @@
+
+{
+	"commands" : 
+	[
+		"close FANCHART",
+		"close FANCHART",
+		"close FANCHART",
+		"close FANCHART",
+		"close FANCHART",
+		"close FANCHART"
+	],
+	"description" : "",
+	"label" : "auto",
+	"workbook_meta" : 
+	{
+		"_name" : "e:\\eviews\\fan chart\\workfile.wf1",
+		"_pages" : 
+		[
+			
+			{
+				"_frequency" : "M",
+				"_last_update" : [ 737603.9860416667, "06/28/2020 23:39" ],
+				"_name" : "Untitled",
+				"_obj_count" : 7,
+				"_objects" : 
+				[
+					
+					{
+						"_data_type" : "date",
+						"_name" : "@DATE",
+						"_obs_max" : [ 737393.0, "12/01/2019" ],
+						"_obs_min" : [ 730850.0, "01/01/2002" ],
+						"_type" : "INDEX"
+					},
+					
+					{
+						"_name" : "C",
+						"_type" : "COEF"
+					},
+					
+					{
+						"_name" : "CAMBIO",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "D_CAMBIO",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "D_IBCBR",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "IBCBR",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "IPCA",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "RESID",
+						"_type" : "SERIES"
+					}
+				],
+				"_obs_count" : 216
+			},
+			
+			{
+				"_frequency" : "M",
+				"_last_update" : [ 737604.7894675926, "06/29/2020 18:56" ],
+				"_name" : "Untitled1",
+				"_obj_count" : 31,
+				"_objects" : 
+				[
+					
+					{
+						"_data_type" : "date",
+						"_name" : "@DATE",
+						"_obs_max" : [ 737393.0, "12/01/2019" ],
+						"_obs_min" : [ 730850.0, "01/01/2002" ],
+						"_type" : "INDEX"
+					},
+					
+					{
+						"_name" : "C",
+						"_type" : "COEF"
+					},
+					
+					{
+						"_name" : "CAMBIO",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "D_CAMBIO",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "D_CAMBIO_0H",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "D_CAMBIO_0L",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "D_CAMBIO_0M",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "D_IBCBR",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "D_IBCBR_0H",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "D_IBCBR_0L",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "D_IBCBR_0M",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "EQ1",
+						"_type" : "VAR"
+					},
+					
+					{
+						"_name" : "FANCHART",
+						"_type" : "GRAPH"
+					},
+					
+					{
+						"_name" : "G",
+						"_type" : "GROUP"
+					},
+					
+					{
+						"_name" : "G2",
+						"_type" : "GROUP"
+					},
+					
+					{
+						"_name" : "IBCBR",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "IPCA",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "IPCA1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "IPCA_0H",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "IPCA_0H_",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "IPCA_0L",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "IPCA_0L_",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "IPCA_0M",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "IPCA_30H_",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "IPCA_30L_",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "IPCA_60H_",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "IPCA_60L_",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "IPCA_90H_",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "IPCA_90L_",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "MOD",
+						"_type" : "MODEL"
+					},
+					
+					{
+						"_name" : "P1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "RESID",
+						"_type" : "SERIES"
+					}
+				],
+				"_obs_count" : 216
+			}
+		]
+	}
+}
